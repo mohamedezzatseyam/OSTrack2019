@@ -1,0 +1,7 @@
+RND: evaluate any new technology.   JVM: java virsual machine
+other file manager:
+* JVM
+* double commander
+* dolphin
+
+
